@@ -1,2 +1,8 @@
 # TSF-Data-Science-Business-Analytics
-Tasks related to Data Science and Business Analytics Internship at The Sparks Foundation under the GRIP April 2021
+Task 1- Prediction using Supervised ML
+
+Author - SAKSHI MANKAR
+
+Problem Statement - Predict the percentage of a student based on the no. of study hours. Here I have used simple Linear Regression to accomplish the task.
+
+Dataset Link: http://bit.ly/w-data
